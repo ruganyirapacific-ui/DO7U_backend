@@ -1,0 +1,8 @@
+{
+  "name": "d7u-communaute",
+  "version": "1.0.0",
+  "description": "Site communautaire D7U avec espace administrateur",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
